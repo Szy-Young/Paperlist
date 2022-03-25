@@ -10,6 +10,26 @@ Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual M
 [CVPR19 GSPN](https://openaccess.thecvf.com/content_CVPR_2019/html/Yi_GSPN_Generative_Shape_Proposal_Network_for_3D_Instance_Segmentation_in_CVPR_2019_paper.html)
 GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud
 
+## Scene flow
+
+[NIPS21 NeuralSceneFlowPrior](https://proceedings.neurips.cc/paper/2021/hash/41263b9a46f6f8f22668476661614478-Abstract.html)
+Neural Scene Flow Prior
+
+[CVPR21 Flowstep3D](https://openaccess.thecvf.com/content/CVPR2021/html/Kittenplon_FlowStep3D_Model_Unrolling_for_Self-Supervised_Scene_Flow_Estimation_CVPR_2021_paper.html)
+FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation
+
+# Motion Segmentation
+
+## Layered models
+
+[CVPR16 SOF](https://openaccess.thecvf.com/content_cvpr_2016/html/Sevilla-Lara_Optical_Flow_With_CVPR_2016_paper.html)
+Optical Flow With Semantic Segmentation and Localized Layers
+
+[CVPR12 nLayers](https://cs.brown.edu/people/dqsun/pubs/cvpr_2012_layer.pdf)
+Layered segmentation and optical flow estimation over time
+
+[CVPR13 FC-2Layers](https://openaccess.thecvf.com/content_cvpr_2013/html/Sun_A_Fully-Connected_Layered_2013_CVPR_paper.html)
+A Fully-Connected Layered Model of Foreground and Background Flow
 
 # Representation Learning
 
