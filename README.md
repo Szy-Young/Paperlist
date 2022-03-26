@@ -31,6 +31,17 @@ Layered segmentation and optical flow estimation over time
 [CVPR13 FC-2Layers](https://openaccess.thecvf.com/content_cvpr_2013/html/Sun_A_Fully-Connected_Layered_2013_CVPR_paper.html)
 A Fully-Connected Layered Model of Foreground and Background Flow
 
+## Robotics-related
+
+[22 Automatic Labeling LIDAR-MOS](https://arxiv.org/abs/2201.04501)
+Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation
+
+[IROS19 SelfDeepMask](https://arxiv.org/abs/2005.09484)
+Self-supervised Transfer Learning for Instance Segmentation through Physical Interaction
+
+[RAL21 LMNet](https://arxiv.org/abs/2105.08971)
+Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data
+
 # Representation Learning
 
 ## Learning by compression
