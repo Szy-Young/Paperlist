@@ -35,6 +35,9 @@ A Fully-Connected Layered Model of Foreground and Background Flow
 
 ## Learning by compression
 
+[NIPS20 MCR2](https://arxiv.org/abs/2006.08558)
+Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction
+
 [00 Information bottleneck](https://arxiv.org/abs/physics/0004057)
 The information bottleneck method
 
