@@ -12,7 +12,7 @@ GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cl
 
 ## Scene flow
 
-[NIPS21 NeuralSceneFlowPrior](https://proceedings.neurips.cc/paper/2021/hash/41263b9a46f6f8f22668476661614478-Abstract.html)
+[NIPS21](https://proceedings.neurips.cc/paper/2021/hash/41263b9a46f6f8f22668476661614478-Abstract.html)
 Neural Scene Flow Prior
 
 [CVPR21 Flowstep3D](https://openaccess.thecvf.com/content/CVPR2021/html/Kittenplon_FlowStep3D_Model_Unrolling_for_Self-Supervised_Scene_Flow_Estimation_CVPR_2021_paper.html)
@@ -33,7 +33,7 @@ A Fully-Connected Layered Model of Foreground and Background Flow
 
 ## Robotics-related
 
-[22 Automatic Labeling LIDAR-MOS](https://arxiv.org/abs/2201.04501)
+[22](https://arxiv.org/abs/2201.04501)
 Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation
 
 [IROS19 SelfDeepMask](https://arxiv.org/abs/2005.09484)
@@ -45,6 +45,9 @@ Moving object segmentation in 3D LiDAR data: A learning-based approach exploitin
 # Representation Learning
 
 ## Learning by compression
+
+[21](https://www.stat.cmu.edu/~ryantibs/papers/sparsitynn.pdf)
+Equivalences Between Sparse Models and Neural Networks
 
 [NIPS20 MCR2](https://arxiv.org/abs/2006.08558)
 Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction
