@@ -46,8 +46,17 @@ The information bottleneck method
 [3DV21 PoseContrast](https://ieeexplore.ieee.org/abstract/document/9665831)
 PoseContrast: Class-Agnostic Object Viewpoint Estimation in the Wild with Pose-Aware Contrastive Learning
 
+[ICCV21 DepthContrast](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Self-Supervised_Pretraining_of_3D_Features_on_Any_Point-Cloud_ICCV_2021_paper.html)
+Self-Supervised Pretraining of 3D Features on Any Point-Cloud
+
+[CVPR21 ContrastiveSceneContexts](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Exploring_Data-Efficient_3D_Scene_Understanding_With_Contrastive_Scene_Contexts_CVPR_2021_paper.html)
+Exploring Data-Efficient 3D Scene Understanding With Contrastive Scene Contexts
+
 [NIPS20 InfoMin](https://proceedings.neurips.cc/paper/2020/hash/4c2e5eaae9152079b9e95845750bb9ab-Abstract.html)
 What Makes for Good Views for Contrastive Learning?
+
+[ECCV20 PointContrast](https://arxiv.org/abs/2007.10985)
+PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding
 
 ## Object-centric learning / Unsupervised segmentation
 
