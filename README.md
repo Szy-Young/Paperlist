@@ -36,11 +36,11 @@ A Fully-Connected Layered Model of Foreground and Background Flow
 [22](https://arxiv.org/abs/2201.04501)
 Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation
 
-[IROS19 SelfDeepMask](https://arxiv.org/abs/2005.09484)
-Self-supervised Transfer Learning for Instance Segmentation through Physical Interaction
-
 [RAL21 LMNet](https://arxiv.org/abs/2105.08971)
 Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data
+
+[IROS19 SelfDeepMask](https://arxiv.org/abs/2005.09484)
+Self-supervised Transfer Learning for Instance Segmentation through Physical Interaction
 
 # Representation Learning
 
