@@ -18,6 +18,19 @@ Neural Scene Flow Prior
 [CVPR21 Flowstep3D](https://openaccess.thecvf.com/content/CVPR2021/html/Kittenplon_FlowStep3D_Model_Unrolling_for_Self-Supervised_Scene_Flow_Estimation_CVPR_2021_paper.html)
 FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation
 
+# Image Understanding
+
+## Instance segmentation
+
+[21 Mask2Former](https://arxiv.org/abs/2112.01527)
+Masked-attention Mask Transformer for Universal Image Segmentation
+
+[NIPS21 MaskFormer](https://arxiv.org/abs/2107.06278)
+Per-Pixel Classification is Not All You Need for Semantic Segmentation
+
+[NIPS21 K-Net](https://proceedings.neurips.cc/paper/2021/hash/55a7cf9c71f1c9c495413f934dd1a158-Abstract.html)
+K-Net: Towards Unified Image Segmentation
+
 # Motion Segmentation
 
 ## Layered models
