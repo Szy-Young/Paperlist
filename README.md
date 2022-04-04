@@ -33,6 +33,8 @@ Per-Pixel Classification is Not All You Need for Semantic Segmentation
 [NIPS21 K-Net](https://proceedings.neurips.cc/paper/2021/hash/55a7cf9c71f1c9c495413f934dd1a158-Abstract.html)
 K-Net: Towards Unified Image Segmentation
 
+<br/>
+
 # Motion Segmentation
 
 ## Layered models
@@ -56,6 +58,8 @@ Moving object segmentation in 3D LiDAR data: A learning-based approach exploitin
 
 [IROS19 SelfDeepMask](https://arxiv.org/abs/2005.09484)
 Self-supervised Transfer Learning for Instance Segmentation through Physical Interaction
+
+<br/>
 
 # Representation Learning
 
@@ -100,3 +104,5 @@ Learning Object-Centric Representations of Multi-Object Scenes from Multiple Vie
 
 [ICLR20 Genesis](https://arxiv.org/abs/1907.13052)
 GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations
+
+<br/>
