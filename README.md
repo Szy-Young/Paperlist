@@ -39,6 +39,9 @@ K-Net: Towards Unified Image Segmentation
 
 ## Layered models
 
+[CVPR17 MR-Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wulff_Optical_Flow_in_CVPR_2017_paper.pdf)
+Optical Flow in Mostly Rigid Scenes
+
 [CVPR16 SOF](https://openaccess.thecvf.com/content_cvpr_2016/html/Sevilla-Lara_Optical_Flow_With_CVPR_2016_paper.html)
 Optical Flow With Semantic Segmentation and Localized Layers
 
