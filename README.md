@@ -5,6 +5,9 @@
 [ICLR22 PointMLP](https://arxiv.org/abs/2202.07123)
 Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework
 
+[CVPR17 PointSetGeneration](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf)
+A Point Set Generation Network for 3D Object Reconstruction from a Single Image
+
 ## Instance segmentation
 
 [CVPR19 GSPN](https://openaccess.thecvf.com/content_CVPR_2019/html/Yi_GSPN_Generative_Shape_Proposal_Network_for_3D_Instance_Segmentation_in_CVPR_2019_paper.html)
