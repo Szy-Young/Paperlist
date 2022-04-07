@@ -42,11 +42,11 @@ K-Net: Towards Unified Image Segmentation
 [CVPR16 SOF](https://openaccess.thecvf.com/content_cvpr_2016/html/Sevilla-Lara_Optical_Flow_With_CVPR_2016_paper.html)
 Optical Flow With Semantic Segmentation and Localized Layers
 
-[CVPR12 nLayers](https://cs.brown.edu/people/dqsun/pubs/cvpr_2012_layer.pdf)
-Layered segmentation and optical flow estimation over time
-
 [CVPR13 FC-2Layers](https://openaccess.thecvf.com/content_cvpr_2013/html/Sun_A_Fully-Connected_Layered_2013_CVPR_paper.html)
 A Fully-Connected Layered Model of Foreground and Background Flow
+
+[CVPR12 nLayers](https://cs.brown.edu/people/dqsun/pubs/cvpr_2012_layer.pdf)
+Layered segmentation and optical flow estimation over time
 
 ## Robotics-related
 
