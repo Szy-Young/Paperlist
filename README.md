@@ -48,6 +48,9 @@ A Fully-Connected Layered Model of Foreground and Background Flow
 [CVPR12 nLayers](https://cs.brown.edu/people/dqsun/pubs/cvpr_2012_layer.pdf)
 Layered segmentation and optical flow estimation over time
 
+[NIPS10 Layers++](https://proceedings.neurips.cc/paper/2010/hash/f7664060cc52bc6f3d620bcedc94a4b6-Abstract.html)
+Layered Image Motion with Explicit Occlusions, Temporal Consistency, and Depth Ordering
+
 ## Robotics-related
 
 [22](https://arxiv.org/abs/2201.04501)
