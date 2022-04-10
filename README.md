@@ -102,6 +102,9 @@ PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding
 
 ## Object-centric learning / Unsupervised segmentation
 
+[21 PPD](https://arxiv.org/abs/2110.04411)
+Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+
 [NIPS21 SIMONe](https://proceedings.neurips.cc/paper/2021/hash/a860a7886d7c7e2a8d3eaac96f76dc0d-Abstract.html)
 SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition
 
@@ -113,5 +116,8 @@ Learning Object-Centric Representations of Multi-Object Scenes from Multiple Vie
 
 [ICLR20 Genesis](https://arxiv.org/abs/1907.13052)
 GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations
+
+[ICCV19 BAE-Net](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.html)
+BAE-NET: Branched Autoencoder for Shape Co-Segmentation
 
 <br/>
