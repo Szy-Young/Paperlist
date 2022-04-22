@@ -40,6 +40,11 @@ K-Net: Towards Unified Image Segmentation
 
 # Motion Segmentation
 
+## 2D motion segmentation
+
+[CVPR21 DyStaB](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_DyStaB_Unsupervised_Object_Segmentation_via_Dynamic-Static_Bootstrapping_CVPR_2021_paper.html)
+DyStaB: Unsupervised Object Segmentation via Dynamic-Static Bootstrapping
+
 ## Layered models
 
 [CVPR17 MR-Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wulff_Optical_Flow_in_CVPR_2017_paper.pdf)
