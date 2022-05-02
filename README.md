@@ -6,6 +6,8 @@
 
 [Spectral Clustering tutorial](https://arxiv.org/abs/0711.0189)
 
+<br/>
+
 # Point Cloud Understanding
 
 ## Basic architecture
