@@ -1,3 +1,11 @@
+# Basics
+
+[MRF tutorial](http://www.cs.toronto.edu/~fleet/courses/2503/fall11/Handouts/mrf.pdf)
+
+[VAE tutorial](https://arxiv.org/abs/1606.05908)
+
+[Spectral Clustering tutorial](https://arxiv.org/abs/0711.0189)
+
 # Point Cloud Understanding
 
 ## Basic architecture
